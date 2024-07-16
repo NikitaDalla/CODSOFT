@@ -5,13 +5,13 @@ Here in this repository there are 3 projects
 
 # Project 1
 
-Project Title : Landing Page
+## Project Title : Landing Page
 Introduction:I make a landing page for bookstore with name Alphabet .In this project Html and Css is used. It helps Book lover to search their favourite books.
 
 
 # Project 2
 
-Project Title : Portfolio website
+## Project Title : Portfolio website
 1. Introduction:I make my own portfolio website
 2. Table of Contents:
    - About
@@ -27,7 +27,7 @@ Project Title : Portfolio website
 
 # Project 3
 
-Project Title : Calculator
+## Project Title : Calculator
 
 A simple, easy-to-use calculator application built with HTML, CSS, and JavaScript.
 
